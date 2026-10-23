@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 构建中间产物
+dist/*.html
+pages.json
+pages2.json
+
+# macOS
+.DS_Store
+._*
+
+# 编辑器
+.vscode/
+.idea/
