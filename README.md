@@ -177,7 +177,7 @@ PDF ──pages.py──▶ 标题→页码映射 ──toc.py --map──▶ �
 ## 许可
 
 - **代码**（`tools/`、`Makefile`）：[MIT](LICENSE)
-- **文档内容**（`src/`、`dist/`）：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) —— 署名、非商业性使用、相同方式共享
+- **文档内容**（`src/`、`dist/`、`assets/`）：[CC BY-NC-SA 4.0](LICENSE-CONTENT.md) —— 署名、非商业性使用、相同方式共享
 
 转载或二次整理请保留来源与免责声明。
 
